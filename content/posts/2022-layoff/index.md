@@ -2,21 +2,21 @@
 draft = false
 date = 2023-01-09T01:56:07+09:00
 title = "2022 회고.. 가 아닌 해고 썰"
-description = "아마존에 지원했을 때부터 출국 직전에 해고당했을 때까지 그 일련의 과정들에 대한 기록"
+description = "아마존 해고에 대한 기록"
 slug = "2022-amazon-layoff"
 authors = []
 tags = []
 categories = []
 externalLink = ""
 series = []
-images = ['amazon-layoffs.jpeg']
+images = []
 +++
 
 2022년, 하루하루가 행복하고 재밌었다. 소중한 인연들도 만나고 개인적으로도 크게 성장을 했다. 학부 졸업을 (드디어) 했고, 회사에서도 크고 작은 프로젝트들을 성공적으로 마치며 능력을 인정받았다. 365일 중 364일이 즐겁고 행복했다. 단 하루를 제외하고. 그 하루에 대한 얘기를 해보려고 한다. 2022년 12월 21일 오전 9시. 모르는 해외 번호로 전화가 왔고, 약 10초 간의 침묵 이후에, 해고 통보를 받았다. 자세한 내용은 이메일로 알려주겠단다. 어느 정도 예상하고 있어서였을까, 그냥 아무 생각이 들지 않았다. 침대에 다시 누워서 눈을 감았다.
 
 **캐나다로 출국하기 8일 전, 그리고 아마존 밴쿠버에서의 첫 근무일 3주 전이었다.**
 
-![Amazon Layoffs](amazon-layoffs.jpg)
+![Amazon Layoffs](thumbnail-amazon-layoff.jpeg)
 *출처: [Amazon Layoffs](https://hyperboloid-lanternfish-3zs4.squarespace.com/cartoons/7eig6kkgq9fxqafq66z1rmrdvvt95g)*
     
 
