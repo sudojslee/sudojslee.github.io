@@ -34,6 +34,10 @@ disqusShortname = "yourdiscussshortname"
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
+  customCSS = ["css/custom.css"]
+#   customSCSS = ["scss/custom.scss"]
+#   customJS = ["js/custom.js"]
+
 [params.goatCounter]
   code = "sudojslee" # You will access your account at https://[code].goatcounter.com
 
@@ -43,9 +47,7 @@ disqusShortname = "yourdiscussshortname"
   label = "" # https://utteranc.es/#heading-issue-label
   theme = "github-dark" # https://utteranc.es/#heading-theme
 
-#   customCSS = ["css/custom.css"]
-#   customSCSS = ["scss/custom.scss"]
-#   customJS = ["js/custom.js"]
+
 
 # [taxonomies]
 #   category = "categories"
