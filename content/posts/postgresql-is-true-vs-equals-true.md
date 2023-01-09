@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2021-05-05T22:47:40+09:00
 title = "PostgreSQL IS TRUE vs = 'true'"
 description = ""
