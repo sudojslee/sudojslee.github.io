@@ -10,7 +10,8 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+# Using utterances, so disable disqus
+# disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Junseok Lee"
