@@ -14,7 +14,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Junseok Lee"
-  info = "Backend Developer and .. ?"
+  info = "Backend Developer, Open For Work"
   description = "JS Lee's dev blog"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
@@ -23,7 +23,7 @@ disqusShortname = "yourdiscussshortname"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  footercontent = "Enter a text here."
+  # footercontent = "Enter a text here."
   hideFooter = false
   hideCredits = false
   hideCopyright = false
@@ -33,6 +33,15 @@ disqusShortname = "yourdiscussshortname"
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
+
+[params.goatCounter]
+  code = "sudojslee" # You will access your account at https://[code].goatcounter.com
+
+[params.utterances]
+  repo = "sudojslee/sudojslee.github.io" # https://utteranc.es/#heading-repository
+  issueTerm = "pathname" # https://utteranc.es/#heading-mapping
+  label = "" # https://utteranc.es/#heading-issue-label
+  theme = "github-dark" # https://utteranc.es/#heading-theme
 
 #   customCSS = ["css/custom.css"]
 #   customSCSS = ["scss/custom.scss"]
