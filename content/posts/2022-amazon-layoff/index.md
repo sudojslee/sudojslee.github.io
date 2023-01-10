@@ -2,10 +2,10 @@
 draft = false
 date = 2023-01-09T01:56:07+09:00
 title = "2022 회고.. 가 아닌 해고 썰"
-description = "아마존 해고에 대한 기록"
+description = "아마존 오퍼 철회에 대한 기록"
 slug = "2022-amazon-layoff"
 authors = []
-tags = []
+tags = ["2022", "Retrospect", "Amazon"]
 categories = []
 externalLink = ""
 series = []
