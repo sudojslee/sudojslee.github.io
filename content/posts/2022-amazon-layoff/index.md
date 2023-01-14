@@ -16,7 +16,7 @@ images = []
 
 **캐나다로 출국하기 8일 전, 그리고 아마존 밴쿠버에서의 첫 근무일 3주 전이었다.**
 
-![Amazon Layoffs](thumbnail-amazon-layoff.jpeg)
+![Amazon Layoffs](images/thumbnail-amazon-layoff.jpeg)
 *출처: [Amazon Layoffs](https://hyperboloid-lanternfish-3zs4.squarespace.com/cartoons/7eig6kkgq9fxqafq66z1rmrdvvt95g)*
     
 
@@ -34,7 +34,7 @@ images = []
 
 그리고 거짓말처럼 일주일 정도 후, 4월 8일에 아마존의 Technical Recruiter로부터 링크드인 메시지를 통해 연락이 왔다. “너의 커리어 패스는 정말 어메이징 해! 아마존 캐나다에서 소프트웨어 엔지니어를 채용하고 있는데, 지원해 볼래?”라며 지원할 수 있는 링크를 보내줬다. 얼마 전에 채용 이벤트에서는 서류 탈락을 했는데, 리크루터가 직접 지원해 보라고 연락이 왔던 것이다. 설레기도 하면서, 심장이 뛰었다. 해외 취업.. 항상 꿈꿔오기만 했지, 구체적으로 언제 어떻게 갈지는 전혀 생각해 본 적이 없었던 터였다.
 
-![테크 리크루터의 메시지](tech-recruiter-linkedin.png)
+![테크 리크루터의 메시지](images/tech-recruiter-linkedin.png)
 *테크 리크루터의 메시지*
     
 
@@ -60,7 +60,7 @@ images = []
 
 예상보다 더 빠르게 새로운 제안이 왔다. 이번에는 250k CAD. 원하던 연봉 레인지 안에 있었으니, 그리고 연봉이 더 높으면 오히려 더 많은 책임과 의무를 다 할 것 같아서 큰 고민 없이 수락했다. 바로 역제안을 한거 보니, 더 높게  불렀어도 될 걸이라는 생각도 했다. 
 
-![Offer Letter](offer-letter.png)
+![Offer Letter](images/offer-letter.png)
 *오퍼 레터의 일부*
     
 그래도 현재 직장에서의 실수령액보다 비슷하거나 살짝 많았다. 밴쿠버는 세금을 40퍼센트 이상을 내고, 월세 또한 300만 원쯤 한다. 물가 차이도 고려해보면 오히려 한국에서의 삶이 경제적으로 더 이득일 수도 있었다. 근데 애초에 돈 때문에 아마존을 가고 싶었던 것은 아니었다. 새로운 세상을 경험하고 싶었고, 전 세계에서 모인 뛰어난 사람들과 함께 멋있는 제품을 개발하고 싶었다. 빅테크의 제품 개발 프로세스와 개발 문화도 경험하고 싶었고, 해외 생활이 주는 설렘과 불안정감도 겪고 싶었다.
@@ -71,7 +71,7 @@ images = []
 
 그 당시 강달러를 비롯해 한미 금리 역전으로 원·달러 환율은 고공 행진하고 있었다. 왜 그런지는 모르겠지만, 캐나다 달러 또한 강세였다. 하루하루 높아지는 환율 때문에 한국 경제가 걱정되기도 했지만 속으로는 웃고 있었다. 나는 가만히 숨 쉬고 있는데 연봉이 올라가다니. “250k cad to krw” 를 검색하는 게 하루의 쏠쏠한 재미였다. 물론 캐나다에서 생활하기 때문에 아무런 의미가 없지만, 그래도 원화로 계산해보면 환율이 최고조였을 때 2억 6천만 원 까지 상승했다. 숫자가 주는 자부심과 안도감이 있었다. (물론 12월 말 돼서는 환율이 떨어져서 2억 3천만 원까지 떨어지긴 했지만)
 
-![250k CAD to KRW](250k-cad.png)
+![250k CAD to KRW](images/250k-cad.png)
 *하루의 재미였던 "250k cad to krw"*
 
 10월 31일에 퇴사하고도 바쁜 나날을 보냈다. 경험을 위해 잠깐 해외로 가는 게 아닌 완전 이민을 생각하고 있었고, 최소 2년간은 한국에 들어오지 않고 싶었다. 가족, 친구, 지인들과 마지막 약속을 잡고 온갖 술자리에 다 나갔다. 건강을 챙기고자 PT도 끊었고, 꾸준히 운동하며 바른 자세를 만들려 노력했다. 한국의 의료 혜택을 누리고자 병원 순례도 했고, 건강검진도 받아서 적절한 치료도 했다.
@@ -80,7 +80,7 @@ images = []
 
 그리고 이 모든 것을 노션에 정리해놨다. 원래 정리나 계획을 잘하는 성격은 아닌데, 철저하게 계획하지 않으면 초반에는 의미 없이 시간을 보낼 것 같은 느낌이 들었다.
 
-![Vancouver Checklist](vancouver-checklist.png)
+![Vancouver Checklist](images/vancouver-checklist.png)
 *For Sale: Vancouver Checklist, Never Used*
 
 부모님 도움 없이 혼자 이민 간다는 불안함과 두려움, 밴쿠버에서 만날 새로운 인연들과 나 자신의 성장에 대한 기대감과 설렘이 공존했다. 특히 출국일이 다가올수록 그런 마음은 더 커졌다. 만날 사람들은 이미 다 만나서 작별 인사를 하고, 가족과 시간을 더 많이 보내면서 슬슬 짐도 싸기 시작했다.
@@ -89,7 +89,7 @@ images = []
 
 12월20일, 아마존으로부터 이메일이 왔다. 제목은 “PERSONAL & CONFIDENTIAL”. 개인적이고 비밀스러운..? 도대체 어떤 내용이길래 제목을 이렇게 지은 거지 생각하면서 내용을 열어봤다. 아무 내용 없이, 그저 다음날 오전 9시에 전화 괜찮으냐고 물어봤다. 아마존이 연락하는데 뭐 별다른 수가 있나. 시간 괜찮다고 답장했고, 다만 어떤 내용인지 미리 알려주면 내가 먼저 생각해볼 수 있으니 얘기할 주제에 대해서만 말해달라고 했다. 답장을 기대하지는 않았다. 시차 때문에 어차피 늦게 읽을 거라는 것을 알고 있었다.
 
-![Personal & Confidential](personal-confidential.png)
+![Personal & Confidential](images/personal-confidential.png)
 *Personal & Confidential*
 
 그리고 그 다음 날 전화를 받았고, 해고 통보를 받았다. 단 5분 만에.
@@ -99,9 +99,6 @@ images = []
 아무 생각도 나지 않았고 아무것도 하기 싫었다. 앞으로의 내 인생은? 내가 들인 시간과 노력은? 내가 계획했던 밴쿠버에서의 삶은? 일 년 후 미국으로 트랜스퍼 계획은? 다시 침대에 누워 잠을 청해보려 했지만 그렇게 쉽게 잠들 수 있을 리가. 열두 시에 예정되어있는 헬스 PT도 받고, 목욕도 개운하게 했다. 그래야 조금이라도 머리를 비울 수 있을 것 같았다.
 
 인스타그램 스토리에도 내 현재 상황을 올렸다. 한평생 그렇게 많은 위로를 받은 적이 없었다. 믿지 않는 사람들도 있었고, 개꿀잼 몰카 그만하라고도 했다. 아마존, 그리고 AWS를 불매하겠다는 기특한(?) 친구도 있었다. 친구들과 지인들이 나보다 더 분노했고, 대신 욕해줬다. 물론, 캐나다 못 가게 돼서 본인 결혼식에 참석해서 축의금이나 달라는 사람도 있었다 (^^)
-
-![](friends-reactions.png)
-*"대기업 갑질 논란"*
 
 생각이 어느 정도 정리됐을 때, 이메일로 답장을 보냈다. 궁금한 게 너무 많았고, 이 결정을 되돌릴 수만 있다면 무엇이든지 해보고 싶었다. 지푸라기라도 잡는 심정으로 다음의 질문들을 보냈다.
 
@@ -116,7 +113,7 @@ images = []
 
 미국 블라인드를 찾아보니, 나와 같은 상황인 분들이 많았다. 다들 “PERSONAL & CONFIDENTIAL” 한 이메일을 받았고, 한순간에 해고를 당했다. 심지어 어떤 분은 본인도 퇴사하고, 와이프도 퇴사하고, 집도 렌트 주고, 차도 팔아서 해외 이주를 준비하고 있었는데 해고됐단다. 또 다른 분은 relocation 당일에 해고 통보를 받아서 오고 갈 곳도 없는 신세였다. 
 
-![Amazon Blind](blind.png)
+![Amazon Blind](images/blind.png)
 *출처: [블라인드](https://www.teamblind.com/post/Amazon-personal-and-confidential-call-1JTAGjtD)*
     
 
@@ -150,7 +147,7 @@ images = []
 
 마음을 다잡았다. 내가 해고당한 것은 내가 통제할 수 있는 영역이 아니었고, 더는 이것들에 대해서 걱정하지 않기로. Circle of Concern으로 인해 시간을 허비하는 것은 무의미했다. 그 대신, 나는 내가 통제할 수 있는 영역에만 집중하기로 마음먹었다.[^2]
 
-![Circle of Concern vs Circle of Influence](concern-influence.jpeg)
+![Circle of Concern vs Circle of Influence](images/concern-influence.jpeg)
 *출처: [Circle of Concern vs Circle of Influence](https://twitter.com/mrshep413/status/1244414547676606465)*
 
 ---
@@ -161,7 +158,7 @@ images = []
 
 그래도 다행인 점은, 평생 술안주 썰 풀게 생겼다는 거. “야 너네 해고당해본 적 있냐? 그것도 입사 전에?” 로 시작하면 30분은 떠들 수 있을 듯.
 
-![Put on a Happy Face](joker.png)
+![Put on a Happy Face](images/joker.png)
 *Put On A Happy Face [출처](https://www.newyorker.com/culture/the-front-row/joker-is-a-viewing-experience-of-rare-numbing-emptiness)*
 
 [^1]: [Conan O'Brien's 2011 Dartmouth College Commencement Address](https://youtu.be/KmDYXaaT9sA?t=1252)
